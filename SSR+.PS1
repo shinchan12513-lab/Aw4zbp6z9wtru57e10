@@ -1,7 +1,7 @@
 $secret = "Aw4zbp6z9wtru57e10"
 
 $PsScript = @"
-`$Host.UI.RawUI.WindowTitle='ADMIN CONTROL PANEL'
+`$Host.UI.RawUI.WindowTitle='KING INTERNET INTROPRIME'
 
 while (`$true) {
     Clear-Host
